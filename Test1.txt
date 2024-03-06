@@ -1,0 +1,308 @@
+TIMPUL CURENT: 0
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 1
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 2
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 3
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 4
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 5
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 6
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 7
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 8
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 9
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 10
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 11
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 12
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 13
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 14
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 15
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 16
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 17
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 18
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 19
+Clienti: [(2, 20, 2), (1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 20
+Clienti: [(1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 2:  (2, 20, 2) 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 21
+Clienti: [(1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 1:  (2, 20, 2) 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 22
+Clienti: [(1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 23
+Clienti: [(1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 24
+Clienti: [(1, 25, 2), (3, 25, 4), (4, 27, 2)]
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 25
+Clienti: [(4, 27, 2)]
+Queue 1, waiting period: 2:  (1, 25, 2) 
+Queue 2, waiting period: 4:  (3, 25, 4) 
+
+TIMPUL CURENT: 26
+Clienti: [(4, 27, 2)]
+Queue 1, waiting period: 1:  (1, 25, 2) 
+Queue 2, waiting period: 3:  (3, 25, 4) 
+
+TIMPUL CURENT: 27
+Clienti: []
+Queue 1, waiting period: 2:  (4, 27, 2) 
+Queue 2, waiting period: 2:  (3, 25, 4) 
+
+TIMPUL CURENT: 28
+Clienti: []
+Queue 1, waiting period: 1:  (4, 27, 2) 
+Queue 2, waiting period: 1:  (3, 25, 4) 
+
+TIMPUL CURENT: 29
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 30
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 31
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 32
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 33
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 34
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 35
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 36
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 37
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 38
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 39
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 40
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 41
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 42
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 43
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 44
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 45
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 46
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 47
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 48
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 49
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 50
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 51
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 52
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 53
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 54
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 55
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 56
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 57
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 58
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 59
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+TIMPUL CURENT: 60
+Clienti: []
+Queue 1, waiting period: 0: 
+Queue 2, waiting period: 0: 
+
+Timpul mediu de asteptare a fost: 0.0
+Timpul mediu de procesare a fost: 2.5
+Ora de varf a fost: 20cu un numar de 1 clienti
